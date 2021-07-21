@@ -1,0 +1,12 @@
+h1 {
+ font-family: 'Pacifico',
+ cursive;
+ color: red;
+ text-align: center;
+}
+
+.body {
+    background-color: red;
+    padding: 25px;
+    text-align: center;
+}
